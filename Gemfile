@@ -59,8 +59,6 @@ group :development do
  gem 'capistrano'
  gem 'capistrano-rails'
  gem 'capistrano-rbenv'
- gem 'colorize'
- gem 'sshkit'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
