@@ -1,5 +1,5 @@
 set :stage, :production
-server '139.59.42.128', user: 'deploy', roles: %w{app db web}
+server '139.59.42.128',  user: 'deploy', roles: %w{app db web}
 
 # server-based syntax
 # ======================
