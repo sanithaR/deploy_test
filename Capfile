@@ -22,7 +22,7 @@ require "capistrano/deploy"
 
 require 'capistrano/rbenv'
 set :rbenv_type, :user
-set :rbenv_ruby, 
+set :rbenv_ruby, '2.4.2'
 
 #require 'capistrano/rails'
 #require 'capistrano/bundler'
